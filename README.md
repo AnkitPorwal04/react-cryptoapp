@@ -1,3 +1,13 @@
+This project is live hosted on:
+https://react-cryptomaster.vercel.app/
+
+demo video:-
+
+
+https://user-images.githubusercontent.com/96345105/232237347-0e648a88-4d75-4b1e-ba95-0f23b93f9be6.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
